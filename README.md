@@ -1,0 +1,1 @@
+Fully responsive web application built with React + Redux. Quickly searches and sorts through a Robohash API. Built with CircleCi testing and Prettier integration. Zero to Mastery Academy course project. 
