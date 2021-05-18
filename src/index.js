@@ -6,7 +6,7 @@ import thunkMiddleware from 'redux-thunk';
 import { createLogger } from 'redux-logger';
 import 'tachyons';
 import './index.css';
-import App from './App';
+import App from './containers/App';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
 import { requestRobots, searchRobots } from './reducers'

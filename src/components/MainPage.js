@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import CardList from './CardList';
 import SearchBox from './SearchBox';
 import Scroll from './Scroll';
-import ErrorBoundry from './ErrorBoundry';
+import ErrorBoundary from './ErrorBoundary';
 import Header from './Header';
 
 export class MainPage extends Component {
@@ -33,9 +33,9 @@ export class MainPage extends Component {
         <SearchBox searchChange={onSearchChange}/>
         <Scroll>
           { isPending ? <h1>Loading</h1> :
-            <ErrorBoundry>
+            <ErrorBoundary>
               <CardList robots={this.filterRobots()} />
-            </ErrorBoundry>
+            </ErrorBoundary>
           }
         </Scroll>
       </div>
