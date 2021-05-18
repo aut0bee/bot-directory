@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bot-directory/static/css/main.68709683.chunk.css",
+    "main.js": "/bot-directory/static/js/main.543e424b.chunk.js",
+    "main.js.map": "/bot-directory/static/js/main.543e424b.chunk.js.map",
+    "runtime-main.js": "/bot-directory/static/js/runtime-main.59d6661f.js",
+    "runtime-main.js.map": "/bot-directory/static/js/runtime-main.59d6661f.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/bot-directory/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.06013d90.chunk.js": "/bot-directory/static/js/2.06013d90.chunk.js",
+    "static/js/2.06013d90.chunk.js.map": "/bot-directory/static/js/2.06013d90.chunk.js.map",
+    "static/js/3.06eb313a.chunk.js": "/bot-directory/static/js/3.06eb313a.chunk.js",
+    "static/js/3.06eb313a.chunk.js.map": "/bot-directory/static/js/3.06eb313a.chunk.js.map",
+    "index.html": "/bot-directory/index.html",
+    "service-worker.js": "/bot-directory/service-worker.js",
+    "service-worker.js.map": "/bot-directory/service-worker.js.map",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/bot-directory/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.68709683.chunk.css.map": "/bot-directory/static/css/main.68709683.chunk.css.map",
+    "static/js/2.06013d90.chunk.js.LICENSE.txt": "/bot-directory/static/js/2.06013d90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bot-directory/static/media/SEGA.42eb9160.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d6661f.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.06013d90.chunk.js",
+    "static/css/main.68709683.chunk.css",
+    "static/js/main.543e424b.chunk.js"
+  ]
+}
