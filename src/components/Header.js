@@ -9,7 +9,7 @@ class Header extends Component {
     console.log('header')
     return (
       <div>
-        <h1 className='f1'>Company Bot Directory</h1>
+        <h1 className='f1'>company bot directory</h1>
         <CounterButton />
       </div>
     );
