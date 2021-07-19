@@ -32,7 +32,7 @@ export class MainPage extends Component {
         <Header count={this.state.count}/>
         <SearchBox searchChange={onSearchChange}/>
         <Scroll>
-          { isPending ? <h1>Loading</h1> :
+          { isPending ? <h1>loading</h1> :
             <ErrorBoundary>
               <CardList robots={this.filterRobots()} />
             </ErrorBoundary>
